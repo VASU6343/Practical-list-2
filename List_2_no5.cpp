@@ -7,8 +7,8 @@ int main()
 	float b=24.121234;
 	cout<<"220130318016"<<endl;
 	cout<<"Vasu sapariya"<<endl;
-	cout<<"value of a is :: "<<setfill('@')<<setw(5)<<a<<endl;
-	cout<<"value of b is :: "<<setprecision(5)<<b<<endl;
+	cout<<"The value of a is :: "<<setfill('@')<<setw(5)<<a<<endl;
+	cout<<"The value of b is :: "<<setprecision(5)<<b<<endl;
 	return 0;
 	
 }
