@@ -11,7 +11,7 @@ int main()
     float kilometers;
 
     cout<<"220130318016"<<endl;
-	  cout<<"Vasu sapariya"<<endl;
+    cout<<"Vasu sapariya"<<endl;
     cout << "Enter distance in kilometers: ";
     cin >> kilometers;
     
